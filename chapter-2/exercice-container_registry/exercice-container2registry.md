@@ -31,7 +31,7 @@ docker images | grep notes-api
 > Attendu : une image `notes-api` apparaît (tag `latest` par défaut).
 
 #### Question de réflexion
-> Pourquoi une image locale ne suffit pas ?
+> Pourquoi construire une image locale ne suffit pas si l'on souhaite exécuter des containeurs dans le cloud ?
 
 ### Étape 1.2 — Login
 ```bash
