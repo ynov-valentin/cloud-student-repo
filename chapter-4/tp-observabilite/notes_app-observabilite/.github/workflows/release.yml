@@ -9,7 +9,7 @@ permissions:
   contents: read
 
 env:
-  IMAGE_NAME: bruce1000/notes-api
+  IMAGE_NAME: <your-dockerhub-username>/notes-api
 
 jobs:
   release:
